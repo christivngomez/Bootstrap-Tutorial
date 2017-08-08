@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin:0;
+	outline: none;
+}
+
+nav.navbar.navbar-inverse {
+	margin: 0 auto;
+	background-color: #19478F;
+	border-bottom: 5px solid cyan;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #fff;
+}
+
+img {
+	height: 300px;
+	width: 375px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	padding-left: 20px;
+}
+
+.jumbotron p {
+	padding-left: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
